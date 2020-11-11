@@ -11,7 +11,7 @@ msg = MIMEMultipart()
 mensaje = "Enviando un mensaje de texto plano desde python"
  
 # Configuramos los parámetros del mensaje
-password = ""la password que tengas de tu cuenta de outlook""
+password = "la password que tengas de tu cuenta de outlook"
 msg['From'] = "tu_correo@outlook.com" #tu dirección de correo, este es ficticio
 msg['To'] = "a_quien_va_dirigido@gmail.com" #a quien va dirigido, este es ficticio
 msg['Subject'] = "Primer envio - prueba" #el asunto del correo
