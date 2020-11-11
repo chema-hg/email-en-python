@@ -4,5 +4,6 @@ Descripción del proceso en.-
 
 Los archivos de python son:
 - Para enviar solo texto plano.
-- Para enviar html
+- Para enviar texto plano y/o html
+- Para enviar una imagen.
 - Para enviar archivos adjuntos.
